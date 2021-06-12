@@ -1,4 +1,5 @@
 # Wait4IT
+You'll find no coding syntax or other proper grammar here.
 Are you tired of waiting on IT well wait no more it slices, it dices, it does it all.
 Hello there and welcome to Wait4IT
 My name is Jon Klepinger and I am a Telecommunication's voice and data networking mortal.
